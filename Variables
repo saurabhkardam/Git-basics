@@ -1,0 +1,11 @@
+public class Main {
+
+   public static void main(String[] args) {
+      // Variables
+       String name = "Saurabh";
+       int age = 23;
+
+       String neighbour = "nonu";
+       String friend = neighbour;
+   }
+}
